@@ -14,7 +14,7 @@ sites:
     url: https://www.ntnu.no/adm/doku
 
 status-website:
-  baseUrl: /uptime
+  baseUrl: /Uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
   introTitle: "Oppetid for enkelte nettadresser ved NTNU"
