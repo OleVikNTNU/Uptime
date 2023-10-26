@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ntnu.no.ico",
     "slug": "arkivplan",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
-    "time": 1739,
-    "timeDay": 1622,
-    "timeWeek": 1829,
-    "timeMonth": 1805,
-    "timeYear": 1739,
+    "uptimeYear": "99.92%",
+    "time": 1751,
+    "timeDay": 2663,
+    "timeWeek": 1979,
+    "timeMonth": 1842,
+    "timeYear": 1751,
     "dailyMinutesDown": {
       "2023-09-13": 34,
       "2023-08-27": 55
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 280,
+    "time": 279,
     "timeDay": 216,
-    "timeWeek": 293,
+    "timeWeek": 286,
     "timeMonth": 295,
-    "timeYear": 280,
+    "timeYear": 279,
     "dailyMinutesDown": {
       "2023-09-13": 33,
       "2023-08-27": 48
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 114,
-    "timeDay": 87,
-    "timeWeek": 128,
+    "time": 113,
+    "timeDay": 77,
+    "timeWeek": 123,
     "timeMonth": 130,
-    "timeYear": 114,
+    "timeYear": 113,
     "dailyMinutesDown": {
       "2023-09-13": 33
     }
@@ -74,8 +74,8 @@
     "uptimeYear": "100.00%",
     "time": 108,
     "timeDay": 68,
-    "timeWeek": 124,
-    "timeMonth": 121,
+    "timeWeek": 113,
+    "timeMonth": 120,
     "timeYear": 108,
     "dailyMinutesDown": {}
   },
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 508,
-    "timeDay": 526,
+    "time": 507,
+    "timeDay": 465,
     "timeWeek": 532,
-    "timeMonth": 529,
-    "timeYear": 508,
+    "timeMonth": 530,
+    "timeYear": 507,
     "dailyMinutesDown": {}
   }
 ]
