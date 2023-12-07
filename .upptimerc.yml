@@ -2,6 +2,10 @@ owner: OleVikNTNU
 repo: Uptime
 
 sites:
+  - name: Innsida
+    url: https://i.ntnu.no/
+  - name: Temaside for saksbehandling
+    url: https://i.ntnu.no/saksbehandling
   - name: Arkivplan
     url: https://ntnu.no/arkivplan
   - name: Arkivplan / Automatisering
