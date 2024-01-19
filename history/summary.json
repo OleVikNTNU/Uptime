@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 941,
-    "timeDay": 1121,
-    "timeWeek": 912,
-    "timeMonth": 942,
-    "timeYear": 941,
+    "time": 946,
+    "timeDay": 1175,
+    "timeWeek": 976,
+    "timeMonth": 950,
+    "timeYear": 946,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 588,
-    "timeDay": 1295,
-    "timeWeek": 605,
-    "timeMonth": 610,
+    "timeDay": 571,
+    "timeWeek": 621,
+    "timeMonth": 574,
     "timeYear": 588,
     "dailyMinutesDown": {}
   },
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1766,
-    "timeDay": 2223,
-    "timeWeek": 2315,
-    "timeMonth": 1858,
-    "timeYear": 1766,
+    "time": 1768,
+    "timeDay": 2102,
+    "timeWeek": 2398,
+    "timeMonth": 1873,
+    "timeYear": 1768,
     "dailyMinutesDown": {
       "2023-09-13": 34,
       "2023-08-27": 55
@@ -67,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 282,
-    "timeDay": 394,
-    "timeWeek": 284,
-    "timeMonth": 292,
-    "timeYear": 282,
+    "time": 283,
+    "timeDay": 429,
+    "timeWeek": 314,
+    "timeMonth": 299,
+    "timeYear": 283,
     "dailyMinutesDown": {
       "2023-09-13": 33,
       "2023-08-27": 48
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 114,
-    "timeDay": 194,
-    "timeWeek": 109,
-    "timeMonth": 120,
-    "timeYear": 114,
+    "time": 115,
+    "timeDay": 191,
+    "timeWeek": 124,
+    "timeMonth": 124,
+    "timeYear": 115,
     "dailyMinutesDown": {
       "2023-09-13": 33
     }
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 109,
-    "timeDay": 185,
-    "timeWeek": 104,
-    "timeMonth": 118,
-    "timeYear": 109,
+    "time": 110,
+    "timeDay": 240,
+    "timeWeek": 128,
+    "timeMonth": 123,
+    "timeYear": 110,
     "dailyMinutesDown": {}
   },
   {
@@ -122,17 +122,17 @@
     "slug": "avdeling-for-dokumentasjonsforvaltning",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "95.16%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "95.64%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.97%",
-    "time": 516,
-    "timeDay": 489,
-    "timeWeek": 470,
-    "timeMonth": 543,
-    "timeYear": 516,
+    "time": 517,
+    "timeDay": 459,
+    "timeWeek": 494,
+    "timeMonth": 551,
+    "timeYear": 517,
     "dailyMinutesDown": {
-      "2024-01-18": 70
+      "2024-01-18": 63
     }
   }
 ]
