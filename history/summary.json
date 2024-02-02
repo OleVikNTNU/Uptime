@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/i.ntnu.no.ico",
     "slug": "innsida",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 987,
     "timeDay": 2377,
     "timeWeek": 1355,
     "timeMonth": 1028,
     "timeYear": 987,
-    "dailyMinutesDown": {
-      "2024-02-02": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Temaside for saksbehandling",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/i.ntnu.no.ico",
     "slug": "temaside-for-saksbehandling",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 579,
     "timeDay": 775,
     "timeWeek": 614,
     "timeMonth": 598,
     "timeYear": 579,
-    "dailyMinutesDown": {
-      "2024-02-02": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Arkivplan",
@@ -124,19 +120,19 @@
     "url": "https://www.ntnu.no/adm/doku",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntnu.no.ico",
     "slug": "avdeling-for-dokumentasjonsforvaltning",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.97%",
-    "time": 519,
-    "timeDay": 536,
-    "timeWeek": 503,
-    "timeMonth": 529,
-    "timeYear": 519,
+    "time": 520,
+    "timeDay": 595,
+    "timeWeek": 522,
+    "timeMonth": 533,
+    "timeYear": 520,
     "dailyMinutesDown": {
-      "2024-02-02": 5,
+      "2024-02-02": 15,
       "2024-01-18": 63
     }
   }
