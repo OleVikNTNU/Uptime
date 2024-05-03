@@ -120,18 +120,19 @@
     "url": "https://www.ntnu.no/adm/doku",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntnu.no.ico",
     "slug": "avdeling-for-dokumentasjonsforvaltning",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 584,
-    "timeDay": 516,
-    "timeWeek": 544,
-    "timeMonth": 706,
-    "timeYear": 584,
+    "time": 583,
+    "timeDay": 414,
+    "timeWeek": 515,
+    "timeMonth": 694,
+    "timeYear": 583,
     "dailyMinutesDown": {
+      "2024-05-03": 0,
       "2024-01-18": 63
     }
   }
