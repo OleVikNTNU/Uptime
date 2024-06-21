@@ -4,10 +4,10 @@
     "url": "https://i.ntnu.no/",
     "icon": "https://icons.duckduckgo.com/ip3/i.ntnu.no.ico",
     "slug": "innsida",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1061,
@@ -15,7 +15,9 @@
     "timeWeek": 909,
     "timeMonth": 908,
     "timeYear": 1061,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-21": 1
+    }
   },
   {
     "name": "Temaside for saksbehandling",
