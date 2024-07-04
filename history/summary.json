@@ -22,10 +22,10 @@
     "url": "https://i.ntnu.no/saksbehandling",
     "icon": "https://icons.duckduckgo.com/ip3/i.ntnu.no.ico",
     "slug": "temaside-for-saksbehandling",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 472,
@@ -33,7 +33,9 @@
     "timeWeek": 476,
     "timeMonth": 425,
     "timeYear": 472,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-04": 2
+    }
   },
   {
     "name": "Arkivplan",
@@ -120,9 +122,9 @@
     "url": "https://www.ntnu.no/adm/doku",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntnu.no.ico",
     "slug": "avdeling-for-dokumentasjonsforvaltning",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -132,6 +134,7 @@
     "timeMonth": 981,
     "timeYear": 612,
     "dailyMinutesDown": {
+      "2024-07-04": 0,
       "2024-05-03": 16,
       "2024-01-18": 63
     }
