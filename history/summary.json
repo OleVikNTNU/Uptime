@@ -45,9 +45,9 @@
     "url": "https://ntnu.no/arkivplan",
     "icon": "https://icons.duckduckgo.com/ip3/ntnu.no.ico",
     "slug": "arkivplan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -57,6 +57,7 @@
     "timeMonth": 1841,
     "timeYear": 1754,
     "dailyMinutesDown": {
+      "2024-09-03": 0,
       "2023-09-13": 34
     }
   },
@@ -65,18 +66,19 @@
     "url": "https://www.ntnu.no/arkivplan/automatisering",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntnu.no.ico",
     "slug": "arkivplan-automatisering",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 280,
-    "timeDay": 206,
-    "timeWeek": 291,
-    "timeMonth": 278,
+    "timeDay": 205,
+    "timeWeek": 280,
+    "timeMonth": 276,
     "timeYear": 280,
     "dailyMinutesDown": {
+      "2024-09-03": 0,
       "2023-09-13": 33
     }
   },
@@ -85,18 +87,19 @@
     "url": "https://ntnu-doku.gitlab.io/arkivplan",
     "icon": "https://icons.duckduckgo.com/ip3/ntnu-doku.gitlab.io.ico",
     "slug": "arkivplan-git-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 114,
-    "timeDay": 69,
-    "timeWeek": 131,
-    "timeMonth": 119,
-    "timeYear": 115,
+    "timeDay": 46,
+    "timeWeek": 117,
+    "timeMonth": 116,
+    "timeYear": 114,
     "dailyMinutesDown": {
+      "2024-09-03": 0,
       "2023-09-13": 33
     }
   },
@@ -105,18 +108,20 @@
     "url": "https://ntnu-doku.gitlab.io/arkivplan/automatisering",
     "icon": "https://icons.duckduckgo.com/ip3/ntnu-doku.gitlab.io.ico",
     "slug": "arkivplan-git-lab-automatisering",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 70,
-    "timeWeek": 128,
-    "timeMonth": 118,
+    "timeDay": 46,
+    "timeWeek": 115,
+    "timeMonth": 115,
     "timeYear": 112,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-03": 0
+    }
   },
   {
     "name": "Avdeling for dokumentasjonsforvaltning",
