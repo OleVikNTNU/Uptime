@@ -4,11 +4,11 @@
     "url": "https://i.ntnu.no/",
     "icon": "https://icons.duckduckgo.com/ip3/i.ntnu.no.ico",
     "slug": "innsida",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 1065,
     "timeDay": 834,
@@ -16,6 +16,7 @@
     "timeMonth": 959,
     "timeYear": 1065,
     "dailyMinutesDown": {
+      "2024-11-02": 3,
       "2024-07-04": 71
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://i.ntnu.no/saksbehandling",
     "icon": "https://icons.duckduckgo.com/ip3/i.ntnu.no.ico",
     "slug": "temaside-for-saksbehandling",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 492,
@@ -36,6 +37,7 @@
     "timeMonth": 445,
     "timeYear": 492,
     "dailyMinutesDown": {
+      "2024-11-02": 1,
       "2024-07-24": 16,
       "2024-07-04": 86
     }
