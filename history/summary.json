@@ -4,9 +4,9 @@
     "url": "https://i.ntnu.no/",
     "icon": "https://icons.duckduckgo.com/ip3/i.ntnu.no.ico",
     "slug": "innsida",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -16,6 +16,7 @@
     "timeMonth": 1170,
     "timeYear": 1117,
     "dailyMinutesDown": {
+      "2025-02-02": 0,
       "2024-11-14": 104,
       "2024-11-03": 65,
       "2024-07-04": 71
@@ -26,9 +27,9 @@
     "url": "https://i.ntnu.no/saksbehandling",
     "icon": "https://icons.duckduckgo.com/ip3/i.ntnu.no.ico",
     "slug": "temaside-for-saksbehandling",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -38,6 +39,7 @@
     "timeMonth": 971,
     "timeYear": 519,
     "dailyMinutesDown": {
+      "2025-02-02": 0,
       "2025-01-17": 24,
       "2024-11-14": 104,
       "2024-11-03": 63,
@@ -50,9 +52,9 @@
     "url": "https://ntnu.no/arkivplan",
     "icon": "https://icons.duckduckgo.com/ip3/ntnu.no.ico",
     "slug": "arkivplan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
@@ -62,6 +64,7 @@
     "timeMonth": 1816,
     "timeYear": 1772,
     "dailyMinutesDown": {
+      "2025-02-02": 0,
       "2025-01-17": 31,
       "2024-09-03": 19
     }
@@ -71,9 +74,9 @@
     "url": "https://www.ntnu.no/arkivplan/automatisering",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntnu.no.ico",
     "slug": "arkivplan-automatisering",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -83,6 +86,7 @@
     "timeMonth": 289,
     "timeYear": 280,
     "dailyMinutesDown": {
+      "2025-02-02": 0,
       "2024-09-03": 19
     }
   },
@@ -131,9 +135,9 @@
     "url": "https://www.ntnu.no/adm/doku",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntnu.no.ico",
     "slug": "avdeling-for-dokumentasjonsforvaltning",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.94%",
@@ -143,6 +147,7 @@
     "timeMonth": 583,
     "timeYear": 644,
     "dailyMinutesDown": {
+      "2025-02-02": 0,
       "2025-01-04": 21,
       "2024-11-14": 124,
       "2024-11-03": 48,
