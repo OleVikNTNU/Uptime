@@ -8,14 +8,14 @@ sites:
     url: https://i.ntnu.no/saksbehandling
   - name: Arkivplan
     url: https://ntnu.no/arkivplan
-  - name: Arkivplan / Automatisering
-    url: https://www.ntnu.no/arkivplan/automatisering
+  - name: Arkivplan Wikihotell
+    url: https://www.ntnu.no/wiki/spaces/arkivplan/overview
   - name: Arkivplan GitLab
     url: https://ntnu-doku.gitlab.io/arkivplan
   - name: Arkivplan GitLab / Automatisering
     url: https://ntnu-doku.gitlab.io/arkivplan/automatisering
-  - name: Avdeling for dokumentasjonsforvaltning
-    url: https://www.ntnu.no/adm/doku
+  - name: Avdeling for utvikling og virksomhetsstyring
+    url: https://www.ntnu.no/adm/auv
 
 status-website:
   baseUrl: /Uptime
