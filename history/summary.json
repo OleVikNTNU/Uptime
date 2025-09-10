@@ -4,9 +4,9 @@
     "url": "https://i.ntnu.no/",
     "icon": "https://icons.duckduckgo.com/ip3/i.ntnu.no.ico",
     "slug": "innsida",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
@@ -16,6 +16,7 @@
     "timeMonth": 935,
     "timeYear": 1072,
     "dailyMinutesDown": {
+      "2025-09-10": 0,
       "2025-06-22": 27,
       "2025-06-01": 43,
       "2025-05-17": 33,
@@ -35,18 +36,19 @@
     "url": "https://i.ntnu.no/saksbehandling",
     "icon": "https://icons.duckduckgo.com/ip3/i.ntnu.no.ico",
     "slug": "temaside-for-saksbehandling",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 524,
+    "time": 525,
     "timeDay": 581,
     "timeWeek": 464,
     "timeMonth": 418,
     "timeYear": 543,
     "dailyMinutesDown": {
+      "2025-09-10": 0,
       "2025-06-25": 22,
       "2025-06-22": 27,
       "2025-06-01": 21,
@@ -67,9 +69,9 @@
     "url": "https://ntnu.no/arkivplan",
     "icon": "https://icons.duckduckgo.com/ip3/ntnu.no.ico",
     "slug": "arkivplan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -79,6 +81,7 @@
     "timeMonth": 1718,
     "timeYear": 1790,
     "dailyMinutesDown": {
+      "2025-09-10": 0,
       "2025-07-22": 25,
       "2025-06-22": 27,
       "2025-05-09": 24,
@@ -96,9 +99,9 @@
     "url": "https://www.ntnu.no/wiki/spaces/arkivplan/overview",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntnu.no.ico",
     "slug": "arkivplan-wikihotell",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
@@ -108,6 +111,7 @@
     "timeMonth": 454,
     "timeYear": 454,
     "dailyMinutesDown": {
+      "2025-09-10": 0,
       "2025-09-02": 22
     }
   },
@@ -156,9 +160,9 @@
     "url": "https://www.ntnu.no/adm/auv",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntnu.no.ico",
     "slug": "avdeling-for-utvikling-og-virksomhetsstyring",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -167,6 +171,8 @@
     "timeWeek": 520,
     "timeMonth": 875,
     "timeYear": 875,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-10": 0
+    }
   }
 ]
