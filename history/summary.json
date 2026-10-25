@@ -4,13 +4,13 @@
     "url": "https://i.ntnu.no/",
     "icon": "https://icons.duckduckgo.com/ip3/i.ntnu.no.ico",
     "slug": "innsida",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.14%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.12%",
     "uptimeYear": "99.82%",
-    "time": 1013,
+    "time": 1012,
     "timeDay": 1009,
     "timeWeek": 883,
     "timeMonth": 903,
@@ -32,7 +32,8 @@
       "2026-04-12": 71,
       "2026-09-30": 32,
       "2026-09-29": 162,
-      "2026-10-10": 182
+      "2026-10-10": 182,
+      "2026-10-25": 11
     }
   },
   {
@@ -40,17 +41,17 @@
     "url": "https://i.ntnu.no/saksbehandling",
     "icon": "https://icons.duckduckgo.com/ip3/i.ntnu.no.ico",
     "slug": "temaside-for-saksbehandling",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.56%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.55%",
     "uptimeYear": "99.87%",
-    "time": 639,
-    "timeDay": 1178,
-    "timeWeek": 1073,
-    "timeMonth": 969,
-    "timeYear": 720,
+    "time": 642,
+    "timeDay": 1785,
+    "timeWeek": 1238,
+    "timeMonth": 1013,
+    "timeYear": 724,
     "dailyMinutesDown": {
       "2025-11-15": 15,
       "2025-11-26": 18,
@@ -67,7 +68,8 @@
       "2026-04-11": 33,
       "2026-04-12": 71,
       "2026-09-30": 32,
-      "2026-09-29": 162
+      "2026-09-29": 162,
+      "2026-10-25": 5
     }
   },
   {
@@ -181,9 +183,9 @@
     "url": "https://www.ntnu.no/adm/auv",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntnu.no.ico",
     "slug": "avdeling-for-utvikling-og-virksomhetsstyring",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.86%",
@@ -207,7 +209,8 @@
       "2026-04-12": 71,
       "2026-04-13": 63,
       "2026-09-30": 32,
-      "2026-09-29": 161
+      "2026-09-29": 161,
+      "2026-10-25": 0
     }
   }
 ]
