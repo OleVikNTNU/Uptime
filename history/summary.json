@@ -13,8 +13,8 @@
     "time": 983,
     "timeDay": 857,
     "timeWeek": 962,
-    "timeMonth": 931,
-    "timeYear": 989,
+    "timeMonth": 929,
+    "timeYear": 990,
     "dailyMinutesDown": {
       "2025-12-04": 53,
       "2025-12-08": 26,
@@ -49,8 +49,8 @@
     "time": 661,
     "timeDay": 666,
     "timeWeek": 953,
-    "timeMonth": 1038,
-    "timeYear": 750,
+    "timeMonth": 1037,
+    "timeYear": 751,
     "dailyMinutesDown": {
       "2025-11-26": 18,
       "2025-12-04": 53,
@@ -75,16 +75,16 @@
     "url": "https://ntnu.no/arkivplan",
     "icon": "https://icons.duckduckgo.com/ip3/ntnu.no.ico",
     "slug": "arkivplan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.85%",
-    "time": 1855,
+    "time": 1854,
     "timeDay": 1549,
     "timeWeek": 2109,
-    "timeMonth": 2082,
+    "timeMonth": 2080,
     "timeYear": 1902,
     "dailyMinutesDown": {
       "2025-12-04": 53,
@@ -102,7 +102,8 @@
       "2026-04-11": 33,
       "2026-04-12": 71,
       "2026-09-30": 32,
-      "2026-09-29": 162
+      "2026-09-29": 162,
+      "2026-11-18": 10
     }
   },
   {
@@ -110,16 +111,16 @@
     "url": "https://www.ntnu.no/wiki/spaces/arkivplan/overview",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntnu.no.ico",
     "slug": "arkivplan-wikihotell",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 501,
+    "time": 500,
     "timeDay": 624,
     "timeWeek": 830,
-    "timeMonth": 803,
+    "timeMonth": 802,
     "timeYear": 537,
     "dailyMinutesDown": {
       "2025-12-04": 53,
@@ -135,7 +136,8 @@
       "2026-04-11": 33,
       "2026-04-12": 71,
       "2026-09-30": 32,
-      "2026-09-29": 162
+      "2026-09-29": 162,
+      "2026-11-18": 0
     }
   },
   {
@@ -152,8 +154,8 @@
     "time": 575,
     "timeDay": 496,
     "timeWeek": 858,
-    "timeMonth": 1019,
-    "timeYear": 678,
+    "timeMonth": 1027,
+    "timeYear": 679,
     "dailyMinutesDown": {}
   },
   {
@@ -170,8 +172,8 @@
     "time": 344,
     "timeDay": 469,
     "timeWeek": 775,
-    "timeMonth": 731,
-    "timeYear": 423,
+    "timeMonth": 738,
+    "timeYear": 424,
     "dailyMinutesDown": {}
   },
   {
@@ -188,8 +190,8 @@
     "time": 762,
     "timeDay": 703,
     "timeWeek": 919,
-    "timeMonth": 882,
-    "timeYear": 729,
+    "timeMonth": 879,
+    "timeYear": 730,
     "dailyMinutesDown": {
       "2025-12-04": 53,
       "2025-12-08": 26,
